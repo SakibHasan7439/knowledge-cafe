@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/Gn0QHW0/inspired-youth.jpg",
+      "title": "The Dawn of Web Development",
+      "author": "Jane Doe",
+      "author_img": "https://example.com/authors/janedoe.jpg",
+      "posted_date": "2024-09-21",
+      "reading_time": 8,
+      "hashtags": ["#webdev", "#coding", "#frontend"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/cvqvwdS/overhead-view-businesswoman-working-computer-office-place-your-text-ideal-blog-flat-lay-white-backgr.jpg",
+      "title": "Mastering JavaScript Arrays",
+      "author": "John Smith",
+      "author_img": "https://example.com/authors/johnsmith.jpg",
+      "posted_date": "2024-10-01",
+      "reading_time": 5,
+      "hashtags": ["#javascript", "#arrays", "#programming"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/2PCP49b/emile-perron-xr-VDYZRGdw4-unsplash.jpg",
+      "title": "The Future of React",
+      "author": "Alice Johnson",
+      "author_img": "https://example.com/authors/alicejohnson.jpg",
+      "posted_date": "2024-10-15",
+      "reading_time": 7,
+      "hashtags": ["#react", "#frontend", "#webdev"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/4tQfChN/christopher-gower-m-HRf-Lhg-ABo-unsplash.jpg",
+      "title": "CSS Grid vs Flexbox: A Comparison",
+      "author": "Bob Lee",
+      "author_img": "https://example.com/authors/boblee.jpg",
+      "posted_date": "2024-09-28",
+      "reading_time": 6,
+      "hashtags": ["#css", "#grid", "#flexbox", "#webdesign"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/2PCP49b/emile-perron-xr-VDYZRGdw4-unsplash.jpg",
+      "title": "Understanding State in React",
+      "author": "Emily Davis",
+      "author_img": "https://example.com/authors/emilydavis.jpg",
+      "posted_date": "2024-10-18",
+      "reading_time": 10,
+      "hashtags": ["#react", "#state", "#frontend", "#coding"]
+    }
+  ]
+  
